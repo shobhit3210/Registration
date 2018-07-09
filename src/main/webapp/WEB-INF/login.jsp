@@ -16,7 +16,7 @@
 
 </head>
 <body>
-    <form:form id="loginForm" action="loginProcess" method="post" modelAttribute="login">
+    <form:form id="loginForm" action="loginProcess" method="post" modelAttribute="">
         <table align="center">
             <tr>
                 <td>
